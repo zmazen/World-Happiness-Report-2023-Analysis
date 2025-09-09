@@ -1,5 +1,15 @@
 # World Happiness Report 2023 Analysis
 
+## Project Structure
+```
+COVID-19-Global-Impact-Analysis/
+│
+├── COVID-19 Data Cleaning & Global Impact Analysis   # Main analysis notebook
+├── README.md                                         # Project documentation
+├── app.py                                            # Streamlit dashboard  
+└── owid-covid-data                                   # Dataset
+```
+
 ## Tools
 - Python
 - Pandas
@@ -10,16 +20,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-## Project Structure
-```
-World_Happiness_Report_2023_Analysis/
-│
-├── app.py                                       # Streamlit dashboard  
-├── readme.md                                    # Project documentation
-├── WHR2023.csv                                  # Dataset
-└── World Happiness Report 2023 Analysis.ipynb   # Main analysis notebook
-```
 
 ## Overview
 This project analyzes the **World Happiness Report 2023** dataset to uncover global happiness trends, identify key drivers of well-being, and highlight insights relevant for policy-making, economics, and social sciences.  
