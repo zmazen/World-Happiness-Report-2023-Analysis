@@ -15,7 +15,7 @@
 ```
 World_Happiness_Report_2023_Analysis/
 │
-├── app.py                                 # Streamlit dashboard  
+├── app.py                                       # Streamlit dashboard  
 ├── readme.md                                    # Project documentation
 ├── WHR2023.csv                                  # Dataset
 └── World Happiness Report 2023 Analysis.ipynb   # Main analysis notebook
