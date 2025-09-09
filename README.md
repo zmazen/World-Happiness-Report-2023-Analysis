@@ -2,12 +2,13 @@
 
 ## Project Structure
 ```
-COVID-19-Global-Impact-Analysis/
+World-Happiness-Report-2023-Analysis/
 │
-├── COVID-19 Data Cleaning & Global Impact Analysis   # Main analysis notebook
-├── README.md                                         # Project documentation
-├── app.py                                            # Streamlit dashboard  
-└── owid-covid-data                                   # Dataset
+├── screenshots                                # Folder containing visualizations and charts
+├── README.md                                  # Project documentation
+├── WHR2023.csv                                # Dataset
+├── World Happiness Report 2023 Analysis.ipynb # Main analysis notebook
+└── app.py                                     # Streamlit dashboard  
 ```
 
 ## Tools
