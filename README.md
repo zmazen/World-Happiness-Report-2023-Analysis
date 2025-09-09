@@ -1,5 +1,11 @@
 # World Happiness Report 2023 Analysis
 
+## Tools
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
