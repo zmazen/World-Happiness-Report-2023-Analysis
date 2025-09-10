@@ -10,9 +10,11 @@ World-Happiness-Report-2023-Analysis/
 │
 ├── screenshots                                # Folder containing visualizations and charts
 ├── README.md                                  # Project documentation
+├── STREAMLIT_LOCAL_SETUP.md                   # Guide for running Streamlit locally
 ├── WHR2023.csv                                # Dataset
 ├── World Happiness Report 2023 Analysis.ipynb # Main analysis notebook
-└── app.py                                     # Streamlit dashboard  
+├── app.py                                     # Streamlit dashboard  
+└── requirements.txt                           # Python dependencies
 ```
 
 ## Tools
