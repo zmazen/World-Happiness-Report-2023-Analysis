@@ -1,5 +1,10 @@
 # World Happiness Report 2023 Analysis
 
+## Live Streamlit App
+
+You can view the interactive Streamlit application online here:  
+[Open the App](https://world-happiness-report-2023-analysis-kgna9wcbhmj3avxjrjvhva.streamlit.app)
+
 ## Project Structure
 ```
 World-Happiness-Report-2023-Analysis/
